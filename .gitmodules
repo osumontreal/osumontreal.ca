@@ -1,0 +1,3 @@
+[submodule "themes/theme-osum"]
+	path = themes/theme-osum
+	url = https://github.com/osumontreal/theme-osum.git
