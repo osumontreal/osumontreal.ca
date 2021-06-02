@@ -1,4 +1,15 @@
 baseURL: "https://osumontreal.ca/"
-languageCode: fr
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
 title: "Open Science UMontreal"
 theme: theme-osum
+
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 10
+  fr:
+    contentDir: content/fr
+    languageName: Français
+    weight: 20
