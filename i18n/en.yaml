@@ -1,0 +1,18 @@
+- id: chat_title
+  translation: "Come discuss with our community"
+- id: chat_body
+  translation: "Whether you want to ask questions, tell everyone about a new resource or simply network, our platform welcomes everyone!"
+- id: chat_link
+  translation: "Join our fully-secure chat platform"
+- id: newsletter_title
+  translation: "Newsletter"
+- id: newsletter_body
+  translation: "The best way to keep up with our latest activities is to sign up for our monthly newsletter."
+- id: newsletter_label
+  translation: "Your email address"
+- id: newsletter_placeholder
+  translation: "your_email@example.com"
+- id: newsletter_button
+  translation: "Subscribe now"
+- id: newsletter_provider
+  translation: "Powered by"
